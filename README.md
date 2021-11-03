@@ -26,7 +26,6 @@ OBS: Para acessar o VBA no excel para modificar os códigos, basta acessar como 
 
 
 <h4 align="center"> 
-	🚧 Pedro Bertani 🚧
-  🚧(14) 99854-6014🚧
+	🚧 Pedro Bertani - (14) 99854-6014🚧
   
 </h4>
